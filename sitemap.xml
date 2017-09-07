@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/tags/index.html</loc>
+    
+    <lastmod>2017-09-07T03:54:37.339Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2017/09/07/quanyunhui/</loc>
+    
+    <lastmod>2017-09-07T03:45:46.798Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2017/09/01/DragonZhang/</loc>
+    
+    <lastmod>2017-09-04T02:07:30.096Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/2017/09/01/hello-world/</loc>
     
     <lastmod>2017-09-03T04:32:20.816Z</lastmod>
@@ -26,20 +47,6 @@
     <loc>http://yoursite.com/categories/index.html</loc>
     
     <lastmod>2017-09-03T03:17:11.571Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/tags/index.html</loc>
-    
-    <lastmod>2017-09-03T03:15:41.751Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2017/09/01/DragonZhang/</loc>
-    
-    <lastmod>2017-08-31T18:54:01.572Z</lastmod>
     
   </url>
   
